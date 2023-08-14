@@ -26,12 +26,14 @@ span{
     margin: auto;
 }
 h1{
+    color: rgb(255, 230, 0);
     text-align: center;
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(0, 85, 255);
     font-family: miFuente;
+    letter-spacing: 0.3rem;
 }
 footer{
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(0, 85, 255);
     display: block;
     text-align: center;
     letter-spacing: 20px;
